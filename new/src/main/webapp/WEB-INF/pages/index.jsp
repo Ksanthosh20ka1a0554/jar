@@ -28,7 +28,7 @@
     </div>
     <div class="text-center m-auto">
     <h1 style="color:#13ab3e;">Welcome to Our panchayat</h1>
-    <h4 style="color:#13ab3e;">Please file your omplaints in this portal</h4>
+    <h4 style="color:#13ab3e;">Please file your complaints in this portal</h4>
     <div class="text-center">
     <img src="../images/Emblem_of_Andhra_Pradesh.svg" class="brand_logo" alt="Logo" style="margin-top:20px; margin-bottom:20px">
     
